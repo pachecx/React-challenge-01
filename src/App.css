@@ -18,3 +18,13 @@
   top: 0;
   left: 0;
 }
+
+.circulo {
+  border: 2px solid red;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  position: absolute;
+  top: 200px;
+  left: 450px;
+}
